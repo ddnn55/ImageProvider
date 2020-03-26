@@ -1,9 +1,9 @@
 {
   "name": "image-provider",
   "version": "1.0.0",
-  "main": "dist/how-long-till-lunch.cjs.js",
-  "module": "dist/how-long-till-lunch.esm.js",
-  "browser": "dist/how-long-till-lunch.umd.js",
+  "main": "dist/image-provider.cjs.js",
+  "module": "dist/image-provider.esm.js",
+  "browser": "dist/image-provider.umd.js",
   "dependencies": {
   },
   "devDependencies": {

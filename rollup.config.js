@@ -7,7 +7,7 @@ export default [
 	{
 		input: 'src/main.js',
 		output: {
-			name: 'howLongUntilLunch',
+			name: 'ImageProvider',
 			file: pkg.browser,
 			format: 'umd'
 		},
